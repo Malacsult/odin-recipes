@@ -1,0 +1,17 @@
+h1{
+    color:white;
+    background-color: darkblue;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size:36px   
+}
+
+.recipe{
+    color:darkgreen;
+    font-weight: 400;
+}
+
+.ingred{
+    background-color: lightgreen;
+    
+}
